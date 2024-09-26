@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\projeto_agenda\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|solutionrelative:projeto_agenda\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\projeto_agenda\\formmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|solutionrelative:projeto_agenda\\formmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Projeto_agenda||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\projeto_agenda\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|solutionrelative:projeto_agenda\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\projeto_agenda\\cl_controlecontato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|solutionrelative:projeto_agenda\\cl_controlecontato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|d:\\tecnico de desenvolvimento de sistemas\\ds1\\projeto_agenda\\projeto_agenda\\formmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|solutionrelative:projeto_agenda\\formmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\projeto_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|solutionrelative:projeto_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\projeto_agenda\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|solutionrelative:projeto_agenda\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\projeto_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|solutionrelative:projeto_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\projeto_agenda\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|solutionrelative:projeto_agenda\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\projeto_agenda\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|solutionrelative:projeto_agenda\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\projeto_agenda\\cl_conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|solutionrelative:projeto_agenda\\cl_conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\projeto_agenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|solutionrelative:projeto_agenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\projeto_agenda\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|solutionrelative:projeto_agenda\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\projeto_agenda\\cl_contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|solutionrelative:projeto_agenda\\cl_contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|d:\\tecnico de desenvolvimento de sistemas\\ds1\\projeto_agenda\\projeto_agenda\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{BA9E387D-5637-45BC-A759-BAE5B81DEED3}|Projeto_agenda\\Projeto_agenda.csproj|solutionrelative:projeto_agenda\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto_agenda\\Form1.cs",
+              "ToolTip": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Form1.cs",
+              "RelativeToolTip": "Projeto_agenda\\Form1.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:03:36.272Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Projeto_agenda\\Cadastro.cs",
+              "ToolTip": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Cadastro.cs",
+              "RelativeToolTip": "Projeto_agenda\\Cadastro.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAADwvzQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:58:13.169Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutBox1.cs [Design]",
+              "DocumentMoniker": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\AboutBox1.cs",
+              "RelativeDocumentMoniker": "Projeto_agenda\\AboutBox1.cs",
+              "ToolTip": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\AboutBox1.cs [Design]*",
+              "RelativeToolTip": "Projeto_agenda\\AboutBox1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:16:26.394Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto_agenda\\Form1.cs",
+              "ToolTip": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Form1.cs [Design]",
+              "RelativeToolTip": "Projeto_agenda\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:58:13.019Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormManual.cs [Design]",
+              "DocumentMoniker": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\FormManual.cs",
+              "RelativeDocumentMoniker": "Projeto_agenda\\FormManual.cs",
+              "ToolTip": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\FormManual.cs [Design]",
+              "RelativeToolTip": "Projeto_agenda\\FormManual.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:00:50.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cl_ControleContato.cs",
+              "DocumentMoniker": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\cl_ControleContato.cs",
+              "RelativeDocumentMoniker": "Projeto_agenda\\cl_ControleContato.cs",
+              "ToolTip": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\cl_ControleContato.cs",
+              "RelativeToolTip": "Projeto_agenda\\cl_ControleContato.cs",
+              "ViewState": "AQIAAAEBAAAAAAAAAAAcwBABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:58:13.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutBox1.cs",
+              "DocumentMoniker": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\AboutBox1.cs",
+              "RelativeDocumentMoniker": "Projeto_agenda\\AboutBox1.cs",
+              "ToolTip": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\AboutBox1.cs*",
+              "RelativeToolTip": "Projeto_agenda\\AboutBox1.cs*",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:21:48.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Projeto_agenda",
+              "DocumentMoniker": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Projeto_agenda.csproj",
+              "RelativeDocumentMoniker": "Projeto_agenda\\Projeto_agenda.csproj",
+              "ToolTip": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Projeto_agenda.csproj",
+              "RelativeToolTip": "Projeto_agenda\\Projeto_agenda.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-24T18:37:20.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormManual.cs",
+              "DocumentMoniker": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\FormManual.cs",
+              "RelativeDocumentMoniker": "Projeto_agenda\\FormManual.cs",
+              "ToolTip": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\FormManual.cs",
+              "RelativeToolTip": "Projeto_agenda\\FormManual.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:08:35.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consulta.cs [Design]",
+              "DocumentMoniker": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Consulta.cs",
+              "RelativeDocumentMoniker": "Projeto_agenda\\Consulta.cs",
+              "ToolTip": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Consulta.cs [Design]*",
+              "RelativeToolTip": "Projeto_agenda\\Consulta.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:58:13.02Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Consulta.cs",
+              "RelativeDocumentMoniker": "Projeto_agenda\\Consulta.cs",
+              "ToolTip": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Consulta.cs*",
+              "RelativeToolTip": "Projeto_agenda\\Consulta.cs*",
+              "ViewState": "AQIAABoAAAAAAAAAAAA9wBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:58:13.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto_agenda\\Program.cs",
+              "ToolTip": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Program.cs",
+              "RelativeToolTip": "Projeto_agenda\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:58:13.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cl_Conexao.cs",
+              "DocumentMoniker": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\cl_Conexao.cs",
+              "RelativeDocumentMoniker": "Projeto_agenda\\cl_Conexao.cs",
+              "ToolTip": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\cl_Conexao.cs",
+              "RelativeToolTip": "Projeto_agenda\\cl_Conexao.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:58:13.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cadastro.cs [Design]",
+              "DocumentMoniker": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Projeto_agenda\\Cadastro.cs",
+              "ToolTip": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\Cadastro.cs [Design]",
+              "RelativeToolTip": "Projeto_agenda\\Cadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:58:13.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "cl_Contato.cs",
+              "DocumentMoniker": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\cl_Contato.cs",
+              "RelativeDocumentMoniker": "Projeto_agenda\\cl_Contato.cs",
+              "ToolTip": "D:\\Tecnico de desenvolvimento de Sistemas\\DS1\\Projeto_agenda\\Projeto_agenda\\cl_Contato.cs",
+              "RelativeToolTip": "Projeto_agenda\\cl_Contato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:58:13.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
